@@ -1,7 +1,3 @@
-# Use very simple decision stumps that simply compare one entry 
-# in the image matrix to another.
-# citation1 : http://www.voidcn.com/article/p-kikuoqzp-np.html
-# citation2: http://www.jianshu.com/p/479e92cf4c2c
 from sklearn.decomposition import PCA
 import random, math, itertools
 import numpy as np
