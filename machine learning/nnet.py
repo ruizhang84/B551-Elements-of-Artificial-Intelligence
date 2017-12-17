@@ -1,12 +1,3 @@
-# Implement a fully-connected feed-forward network to classify image orientation, and implement
-# the backpropagation algorithm to train the network using gradient descent.
-# citation: http://blog.csdn.net/qq_31456593/article/details/69338579
-# citation2: https://brilliant.org/wiki/backpropagation/
-# citation3: https://lguduy.github.io/2016/11/21/PCA/
-# citation4: http://blog.csdn.net/dream_angel_z/article/details/50760130
-# citation5: https://stackoverflow.com/questions/13224362/principal-component-analysis-pca-in-python
-
-#from sklearn.decomposition import PCA
 import numpy as np
 IINIT_EPSILON = 1
 MODEL_FILE = "nnet_model.txt"
